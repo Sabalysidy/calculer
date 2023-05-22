@@ -1,0 +1,4 @@
+Lorsque l'utilisateur clique sur le bouton "Calculer", la fonction calculer() est appelée.
+La fonction calculer() récupère les nombres saisis dans les champs de saisie à l'aide de la méthode parseFloat().
+Elle effectue le calcul de la somme des deux nombres.
+Elle affiche le résultat dans le champ de saisie en lecture seule à l'aide de la méthode document.getElementById().value
